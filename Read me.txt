@@ -1,0 +1,1 @@
+To run this project you have to import .jar library of my sql and then add this to project. Then this project will work fine.
